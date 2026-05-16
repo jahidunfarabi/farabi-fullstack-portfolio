@@ -32,19 +32,15 @@ A modern and responsive full-stack developer portfolio website showcasing my pro
 - Campus Connect
 - Inactive User Reminder System
 
-## 📸 Preview
-
-(Add screenshots later)
-
 ## 🌐 Live Demo
 
-(Add deployed website link later)
+
 
 ## 📬 Contact
 
 - Email: jahidunmuntaka25@gmail.com
 - GitHub: https://github.com/jahidunfarabi
-- LinkedIn: (Add your LinkedIn URL)
+- LinkedIn: https://github.com/jahidunfarabi/farabi-fullstack-portfolio.git
 
 ## ⚡ Author
 
